@@ -106,7 +106,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       ## **A charge-domain scalable-weight in-memory computing macro with dual-SRAM architecture for precision-scalable DNN accelerators**
 
-      ### Eunyoung Lee, Taeyoung Han, Donguk Seo, Gicheol Shin, Jaerok Kim, Seonho Kim, Soyoun Jeong, **Johnny Rhe**, Jaehyun Park, Jong Hwan Ko, Yoonmyung Lee
+      Eunyoung Lee, Taeyoung Han, Donguk Seo, Gicheol Shin, Jaerok Kim, Seonho Kim, Soyoun Jeong, **Johnny Rhe**, Jaehyun Park, Jong Hwan Ko, Yoonmyung Lee
 
       *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2021*
 
