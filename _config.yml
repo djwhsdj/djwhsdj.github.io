@@ -101,15 +101,14 @@ content:
 
   #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: Journal
+  - title: Journal Papers
     layout: text
     content: | # this will include new lines to allow paragraphs 
-      ## **[1] A Charge-Domain Scalable-Weight In-Memory Computing Macro With Dual-SRAM Architecture for Precision-Scalable DNN Accelerators**
+      ## **[3] KERNTROL: Kernel Shape Control Towards Ultimate Memory Utilization for In-Memory Convolutional Weight Mapping**
 
-      Eunyoung Lee, Taeyoung Han, Donguk Seo, Gicheol Shin, Jaerok Kim, Seonho Kim, Soyoun Jeong, **<u>Johnny Rhe</u>**, Jaehyun Park, Jong Hwan Ko, Yoonmyung Lee
+      **<u>Johnny Rhe</u>**, Kang Eun Jeon, Joo Chan Lee, Seongmoon Jeong, Jong Hwan Ko
 
-      *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2021.* 
-      [*Link*](https://ieeexplore.ieee.org/abstract/document/9437302/)
+      *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2024, In review.* 
 
 
       ## **[2] VWC-SDK: Convolutional Weight Mapping Using Shifted and Duplicated Kernel With Variable Windows and Channels**
@@ -118,24 +117,62 @@ content:
 
       *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS), 2022.* 
       [*Link*](https://ieeexplore.ieee.org/abstract/document/9437302/)
+      
+
+      ## **[1] A Charge-Domain Scalable-Weight In-Memory Computing Macro With Dual-SRAM Architecture for Precision-Scalable DNN Accelerators**
+
+      Eunyoung Lee, Taeyoung Han, Donguk Seo, Gicheol Shin, Jaerok Kim, Seonho Kim, Soyoun Jeong, **<u>Johnny Rhe</u>**, Jaehyun Park, Jong Hwan Ko, Yoonmyung Lee
+
+      *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2021.* 
+      [*Link*](https://ieeexplore.ieee.org/abstract/document/9437302/)
 
 
-      ## **[3] KERNTROL: Kernel Shape Control Towards Ultimate Memory Utilization for In-Memory Convolutional Weight Mapping**
+
+  - title: Conference Papers
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      ## **[8] Input/Mapping Precision Controllable Digital PIM with Adaptive Adder Tree Architecture for Flexible DNN Inference**
+
+      Juhong Park, **<u>Johnny Rhe</u>**, Jong Hwan Ko
+
+      *ACM/IEEE Design Automation Conference (DAC), 2024, In review.* 
+      
+
+      ## **[7] KARS: Kernel-Grouping Aided Row-Skipping for SDK-based Weight Compression in PIM Arrays**
+
+      Juhong Park, **<u>Johnny Rhe</u>**, Jong Hwan Ko
+
+      *IEEE International Symposium on Circuits and Systems (ISCAS), 2024, In review.*
+
+
+      ## **[6] DCR: Decomposition-Aware Column Re-Mapping for Stuck-At-Fault Tolerance in ReRAM Arrays**
+
+      Hyeonsu Bang, Kang Eun Jeon, **<u>Johnny Rhe</u>**, Jong Hwan Ko
+
+      *IEEE International Conference on Computer Design (ICCD), 2023.* 
+
+
+      ## **[5] Kernel Shape Control for Row-Efficient Convolution on Processing-In-Memory Arrays**
 
       **<u>Johnny Rhe</u>**, Kang Eun Jeon, Joo Chan Lee, Seongmoon Jeong, Jong Hwan Ko
 
-      *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2024, In review.* 
+      *IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023.* 
 
 
-  - title: Conference
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      ## **[1] A Charge-Domain Computation-In-Memory Macro with Versatile All-Around-Wire-Capacitor for Variable-Precision Computation and Array-Embedded DA/AD Conversions**
+      ## **[4] Weight-Aware Activation Mapping for Energy-Efficient Convolution on PIM Arrays**
 
-      Gicheol Shin, Donguk Seo, Jaerok Kim, **<u>Johnny Rhe</u>**, Eunyoung Lee, Seonho Kim, Soyoun Jeong, Jong Hwan Ko, Yoonmyung Lee
+      Kang Eun Jeon, **<u>Johnny Rhe</u>**, Jong Hwan Ko
 
-      *IEEE European Solid-State Device Research Conference (ESSDERC), 2021.* 
-      [*Link*](https://ieeexplore.ieee.org/abstract/document/9631799)
+      *IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 2023.* 
+      [*Link*](https://ieeexplore.ieee.org/abstract/document/10244618)   
+
+
+      ## **[3] PAIRS: Pruning-AIded Row-Skipping for SDK-Based Convolutional Weight Mapping in Processing-In-Memory Architectures**
+
+      **<u>Johnny Rhe</u>**, Kang Eun Jeon, Jong Hwan Ko
+
+      *IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 2023.* 
+      [*Link*](https://ieeexplore.ieee.org/document/10244367)
 
 
       ## **[2] VW-SDK: Efficient convolutional weight mapping using variable windows for processing-in-memory architectures**
@@ -146,47 +183,23 @@ content:
       [*Link*](https://ieeexplore.ieee.org/abstract/document/9774509)
 
 
-      ## **[3] PAIRS: Pruning-AIded Row-Skipping for SDK-Based Convolutional Weight Mapping in Processing-In-Memory Architectures**
+      ## **[1] A Charge-Domain Computation-In-Memory Macro with Versatile All-Around-Wire-Capacitor for Variable-Precision Computation and Array-Embedded DA/AD Conversions**
 
-      **<u>Johnny Rhe</u>**, Kang Eun Jeon, Jong Hwan Ko
+      Gicheol Shin, Donguk Seo, Jaerok Kim, **<u>Johnny Rhe</u>**, Eunyoung Lee, Seonho Kim, Soyoun Jeong, Jong Hwan Ko, Yoonmyung Lee
 
-      *IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 2023.* 
-      [*Link*](https://ieeexplore.ieee.org/document/10244367)   
-
-      ## **[4] Weight-Aware Activation Mapping for Energy-Efficient Convolution on PIM Arrays**
-
-      Kang Eun Jeon, **<u>Johnny Rhe</u>**, Jong Hwan Ko
-
-      *IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 2023.* 
-      [*Link*](https://ieeexplore.ieee.org/abstract/document/10244618)   
+      *IEEE European Solid-State Device Research Conference (ESSDERC), 2021.* 
+      [*Link*](https://ieeexplore.ieee.org/abstract/document/9631799)
 
 
-      ## **[5] Kernel Shape Control for Row-Efficient Convolution on Processing-In-Memory Arrays**
-
-      **<u>Johnny Rhe</u>**, Kang Eun Jeon, Joo Chan Lee, Seongmoon Jeong, Jong Hwan Ko
-
-      *IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023.* 
 
 
-      ## **[6] DCR: Decomposition-Aware Column Re-Mapping for Stuck-At-Fault Tolerance in ReRAM Arrays**
-
-      Hyeonsu Bang, Kang Eun Jeon, **<u>Johnny Rhe</u>**, Jong Hwan Ko
-
-      *IEEE International Conference on Computer Design (ICCD), 2023.* 
 
 
-      ## **[7] KARS: Kernel-Grouping Aided Row-Skipping for SDK-based Weight Compression in PIM Arrays**
-
-      Juhong Park, **<u>Johnny Rhe</u>**, Jong Hwan Ko
-
-      *IEEE International Symposium on Circuits and Systems (ISCAS), 2024, In review.* 
 
 
-      ## **[8] Input/Mapping Precision Controllable Digital PIM with Adaptive Adder Tree Architecture for Flexible DNN Inference**
 
-      Juhong Park, **<u>Johnny Rhe</u>**, Jong Hwan Ko
 
-      *ACM/IEEE Design Automation Conference (DAC), 2024, In review.* 
+
   #     Look at this cool image  
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
