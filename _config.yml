@@ -104,7 +104,7 @@ content:
   - title: Papers
     layout: text
     content: | # this will include new lines to allow paragraphs
-      #**A charge-domain scalable-weight in-memory computing macro with dual-SRAM architecture for precision-scalable DNN accelerators**
+      #**A charge-domain scalable-weight in-memory computing macro with dual-SRAM architecture for precision-scalable DNN accelerators**#
 
       *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2021*
 
