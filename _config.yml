@@ -30,10 +30,10 @@ linkedin_username: djwhsdj
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: cv
-  icon: fas fa-globe
-  url: https://drive.google.com/file/d/1Gq9PQUPtsBq77JTQbqCbEPflEEz61Tr1/view?usp=sharing
+# additional_links:
+# - title: cv
+#   icon: fas fa-globe
+#   url: https://drive.google.com/file/d/1Gq9PQUPtsBq77JTQbqCbEPflEEz61Tr1/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,6 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   My research focuses on Deep/Convolutional Neural Network (D/CNN) mapping in the Processing‑In‑Memory (PIM) architecture for energy‑efficient and faster PIM‑based D/CNN inference. 
   To achieve this goal, I am exploring diverse approaches including weight mapping, pattern‑based pruning, and kernel shape control (KERNTROL).
 
+  [*CV*](https://drive.google.com/file/d/1Gq9PQUPtsBq77JTQbqCbEPflEEz61Tr1/view?usp=sharing)
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -104,7 +105,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       angang
-      - [Link](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - [*Link*](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
   #     Look at this cool image  
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
