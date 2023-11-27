@@ -46,9 +46,11 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/rhe.pdf
+about_profile_image: images/rhe.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently pursuing a combined M.S/Ph.D. degree in the Department of Electrical and computer engineering at SungKyunKwan University. My research focuses on Deep/Convolutional Neural Network (D/CNN) mapping in the Processing‑In‑Memory (PIM) architecture for energy‑efficient and faster PIM‑based D/CNN inference. To achieve this goal, I am exploring diverse approaches including weight mapping, pattern‑based pruning, and kernel shape control (KERNTROL).
+  I am currently pursuing a combined M.S/Ph.D. degree in the Department of Electrical and computer engineering at SungKyunKwan University. 
+  My research focuses on Deep/Convolutional Neural Network (D/CNN) mapping in the Processing‑In‑Memory (PIM) architecture for energy‑efficient and faster PIM‑based D/CNN inference. 
+  To achieve this goal, I am exploring diverse approaches including weight mapping, pattern‑based pruning, and kernel shape control (KERNTROL).
 
 content:
   - title: Projects # Title for the section
