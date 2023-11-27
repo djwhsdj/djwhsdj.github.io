@@ -104,8 +104,11 @@ content:
   - title: Papers
     layout: text
     content: | # this will include new lines to allow paragraphs
-      angang
-      - [*Link*](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      #**A charge-domain scalable-weight in-memory computing macro with dual-SRAM architecture for precision-scalable DNN accelerators**
+
+      *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2021*
+
+      - [*Link*](https://ieeexplore.ieee.org/abstract/document/9437302/)
 
   #     Look at this cool image  
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
