@@ -108,7 +108,7 @@ content:
 
       **<u>Johnny Rhe</u>**, Kang Eun Jeon, Joo Chan Lee, Seongmoon Jeong, Jong Hwan Ko
 
-      *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2024, In review.* 
+      *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2024.* 
 
 
       ## **[2] VWC-SDK: Convolutional Weight Mapping Using Shifted and Duplicated Kernel With Variable Windows and Channels**
@@ -142,7 +142,7 @@ content:
 
       Juhong Park, **<u>Johnny Rhe</u>**, Jong Hwan Ko
 
-      *IEEE International Symposium on Circuits and Systems (ISCAS), 2024, In review.*
+      *IEEE International Symposium on Circuits and Systems (ISCAS), 2024.*
 
 
       ## **[6] DCR: Decomposition-Aware Column Re-Mapping for Stuck-At-Fault Tolerance in ReRAM Arrays**
@@ -150,6 +150,7 @@ content:
       Hyeonsu Bang, Kang Eun Jeon, **<u>Johnny Rhe</u>**, Jong Hwan Ko
 
       *IEEE International Conference on Computer Design (ICCD), 2023.* 
+      [*Link*](https://ieeexplore.ieee.org/document/10360972)
 
 
       ## **[5] Kernel Shape Control for Row-Efficient Convolution on Processing-In-Memory Arrays**
@@ -157,6 +158,7 @@ content:
       **<u>Johnny Rhe</u>**, Kang Eun Jeon, Joo Chan Lee, Seongmoon Jeong, Jong Hwan Ko
 
       *IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023.* 
+      [*Link*](https://ieeexplore.ieee.org/document/10323749)
 
 
       ## **[4] Weight-Aware Activation Mapping for Energy-Efficient Convolution on PIM Arrays**
@@ -196,23 +198,23 @@ content:
   - title: Projects
     layout: text
     content: | # this will include new lines to allow paragraphs 
-      ## ** HW-SW co-design technique for low-ower real-time in-memory deep learning operation **
+      ## **HW-SW co-design technique for low-ower real-time in-memory deep learning operation**
 
-      ** Study about the efficient convolution operation in the PIM systems
-
-      *Samsung Advanced Institute of Technology (SAIT)* 
-
-
-      ## ** SPAD‐based direct‐TOF camera **
-
-      ** Assist to obtain (or generate) 3D training input data using direct‐TOF camera
+      **Study about the efficient convolution operation in the PIM systems
 
       *Samsung Advanced Institute of Technology (SAIT)* 
 
 
-      ## ** Research on in‐sensor processing for next‐generation CMOS image sensor **
+      ## **SPAD‐based direct‐TOF camera**
 
-      ** Assist to design a part of digital circuit for the gaze tracking
+      **Assist to obtain (or generate) 3D training input data using direct‐TOF camera
+
+      *Samsung Advanced Institute of Technology (SAIT)* 
+
+
+      ## **Research on in‐sensor processing for next‐generation CMOS image sensor**
+
+      **Assist to design a part of digital circuit for the gaze tracking
 
       *Samsung Advanced Institute of Technology (SAIT)* 
 
