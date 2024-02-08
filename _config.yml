@@ -100,6 +100,28 @@ content:
   #         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
   #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  - title: Projects
+    layout: text
+    content: | # this will include new lines to allow paragraphs 
+      ## **[3] HW-SW co-design technique for low-ower real-time in-memory deep learning operation**
+
+      **Study about the efficient convolution operation in the PIM systems
+
+      *Samsung Advanced Institute of Technology (SAIT)* 
+
+
+      ## **[2] SPAD‐based direct‐TOF camera**
+
+      **Assist to obtain (or generate) 3D training input data using direct‐TOF camera
+
+      *Samsung Advanced Institute of Technology (SAIT)* 
+
+
+      ## **[1] Research on in‐sensor processing for next‐generation CMOS image sensor**
+
+      **Assist to design a part of digital circuit for the gaze tracking
+
+      *Samsung Advanced Institute of Technology (SAIT)* 
 
   - title: Journal Papers
     layout: text
@@ -195,28 +217,28 @@ content:
 
 
 
-  - title: Projects
-    layout: text
-    content: | # this will include new lines to allow paragraphs 
-      ## **HW-SW co-design technique for low-ower real-time in-memory deep learning operation**
+  # - title: Projects
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs 
+  #     ## **HW-SW co-design technique for low-ower real-time in-memory deep learning operation**
 
-      **Study about the efficient convolution operation in the PIM systems
+  #     **Study about the efficient convolution operation in the PIM systems
 
-      *Samsung Advanced Institute of Technology (SAIT)* 
-
-
-      ## **SPAD‐based direct‐TOF camera**
-
-      **Assist to obtain (or generate) 3D training input data using direct‐TOF camera
-
-      *Samsung Advanced Institute of Technology (SAIT)* 
+  #     *Samsung Advanced Institute of Technology (SAIT)* 
 
 
-      ## **Research on in‐sensor processing for next‐generation CMOS image sensor**
+  #     ## **SPAD‐based direct‐TOF camera**
 
-      **Assist to design a part of digital circuit for the gaze tracking
+  #     **Assist to obtain (or generate) 3D training input data using direct‐TOF camera
 
-      *Samsung Advanced Institute of Technology (SAIT)* 
+  #     *Samsung Advanced Institute of Technology (SAIT)* 
+
+
+  #     ## **Research on in‐sensor processing for next‐generation CMOS image sensor**
+
+  #     **Assist to design a part of digital circuit for the gaze tracking
+
+  #     *Samsung Advanced Institute of Technology (SAIT)* 
 
 
 
