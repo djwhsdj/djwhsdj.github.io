@@ -132,7 +132,7 @@ content:
   - title: Projects
     layout: text
     content: | # this will include new lines to allow paragraphs 
-      ## **[3] HW-SW co-design technique for low-ower real-time in-memory deep learning operation**
+      ## **[P3] HW-SW co-design technique for low-ower real-time in-memory deep learning operation**
 
       - Study about the efficient convolution operation in the PIM systems
 
@@ -141,7 +141,7 @@ content:
       *Samsung Advanced Institute of Technology (SAIT)* 
 
 
-      ## **[2] SPAD‐based direct‐TOF camera**
+      ## **[P2] SPAD‐based direct‐TOF camera**
 
       - Assist to obtain (or generate) 3D training input data using direct‐TOF camera
 
@@ -150,7 +150,7 @@ content:
       *Samsung Advanced Institute of Technology (SAIT)* 
 
 
-      ## **[1] Research on in‐sensor processing for next‐generation CMOS image sensor**
+      ## **[P1] Research on in‐sensor processing for next‐generation CMOS image sensor**
 
       - Assist to design a part of digital circuit for the gaze tracking
 
@@ -161,14 +161,14 @@ content:
   - title: Journal Papers
     layout: text
     content: | # this will include new lines to allow paragraphs 
-      ## **[3] KERNTROL: Kernel Shape Control Towards Ultimate Memory Utilization for In-Memory Convolutional Weight Mapping**
+      ## **[J3] KERNTROL: Kernel Shape Control Towards Ultimate Memory Utilization for In-Memory Convolutional Weight Mapping**
 
       **<u>Johnny Rhe</u>**, Kang Eun Jeon, Joo Chan Lee, Seongmoon Jeong, Jong Hwan Ko
 
       *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2024.* 
 
 
-      ## **[2] VWC-SDK: Convolutional Weight Mapping Using Shifted and Duplicated Kernel With Variable Windows and Channels**
+      ## **[J2] VWC-SDK: Convolutional Weight Mapping Using Shifted and Duplicated Kernel With Variable Windows and Channels**
 
       **<u>Johnny Rhe</u>**, Sungmin Moon, Jong Hwan Ko
 
@@ -176,7 +176,7 @@ content:
       [*Link*](https://ieeexplore.ieee.org/abstract/document/9437302/)
       
 
-      ## **[1] A Charge-Domain Scalable-Weight In-Memory Computing Macro With Dual-SRAM Architecture for Precision-Scalable DNN Accelerators**
+      ## **[J1] A Charge-Domain Scalable-Weight In-Memory Computing Macro With Dual-SRAM Architecture for Precision-Scalable DNN Accelerators**
 
       Eunyoung Lee, Taeyoung Han, Donguk Seo, Gicheol Shin, Jaerok Kim, Seonho Kim, Soyoun Jeong, **<u>Johnny Rhe</u>**, Jaehyun Park, Jong Hwan Ko, Yoonmyung Lee
 
@@ -188,21 +188,21 @@ content:
   - title: Conference Papers
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## **[8] Input/Mapping Precision Controllable Digital PIM with Adaptive Adder Tree Architecture for Flexible DNN Inference**
+      ## **[C8] Input/Mapping Precision Controllable Digital PIM with Adaptive Adder Tree Architecture for Flexible DNN Inference**
 
       Juhong Park, **<u>Johnny Rhe</u>**, Jong Hwan Ko
 
       *ACM/IEEE Design Automation Conference (DAC), 2024, In review.* 
       
 
-      ## **[7] KARS: Kernel-Grouping Aided Row-Skipping for SDK-based Weight Compression in PIM Arrays**
+      ## **[C7] KARS: Kernel-Grouping Aided Row-Skipping for SDK-based Weight Compression in PIM Arrays**
 
       Juhong Park, **<u>Johnny Rhe</u>**, Jong Hwan Ko
 
       *IEEE International Symposium on Circuits and Systems (ISCAS), 2024.*
 
 
-      ## **[6] DCR: Decomposition-Aware Column Re-Mapping for Stuck-At-Fault Tolerance in ReRAM Arrays**
+      ## **[C6] DCR: Decomposition-Aware Column Re-Mapping for Stuck-At-Fault Tolerance in ReRAM Arrays**
 
       Hyeonsu Bang, Kang Eun Jeon, **<u>Johnny Rhe</u>**, Jong Hwan Ko
 
@@ -210,7 +210,7 @@ content:
       [*Link*](https://ieeexplore.ieee.org/document/10360972)
 
 
-      ## **[5] Kernel Shape Control for Row-Efficient Convolution on Processing-In-Memory Arrays**
+      ## **[C5] Kernel Shape Control for Row-Efficient Convolution on Processing-In-Memory Arrays**
 
       **<u>Johnny Rhe</u>**, Kang Eun Jeon, Joo Chan Lee, Seongmoon Jeong, Jong Hwan Ko
 
@@ -218,7 +218,7 @@ content:
       [*Link*](https://ieeexplore.ieee.org/document/10323749)
 
 
-      ## **[4] Weight-Aware Activation Mapping for Energy-Efficient Convolution on PIM Arrays**
+      ## **[C4] Weight-Aware Activation Mapping for Energy-Efficient Convolution on PIM Arrays**
 
       Kang Eun Jeon, **<u>Johnny Rhe</u>**, Jong Hwan Ko
 
@@ -226,7 +226,7 @@ content:
       [*Link*](https://ieeexplore.ieee.org/abstract/document/10244618)   
 
 
-      ## **[3] PAIRS: Pruning-AIded Row-Skipping for SDK-Based Convolutional Weight Mapping in Processing-In-Memory Architectures**
+      ## **[C3] PAIRS: Pruning-AIded Row-Skipping for SDK-Based Convolutional Weight Mapping in Processing-In-Memory Architectures**
 
       **<u>Johnny Rhe</u>**, Kang Eun Jeon, Jong Hwan Ko
 
@@ -234,7 +234,7 @@ content:
       [*Link*](https://ieeexplore.ieee.org/document/10244367)
 
 
-      ## **[2] VW-SDK: Efficient convolutional weight mapping using variable windows for processing-in-memory architectures**
+      ## **[C2] VW-SDK: Efficient convolutional weight mapping using variable windows for processing-in-memory architectures**
 
       **<u>Johnny Rhe</u>**, Sungmin Moon, Jong Hwan Ko
 
@@ -242,7 +242,7 @@ content:
       [*Link*](https://ieeexplore.ieee.org/abstract/document/9774509)
 
 
-      ## **[1] A Charge-Domain Computation-In-Memory Macro with Versatile All-Around-Wire-Capacitor for Variable-Precision Computation and Array-Embedded DA/AD Conversions**
+      ## **[C1] A Charge-Domain Computation-In-Memory Macro with Versatile All-Around-Wire-Capacitor for Variable-Precision Computation and Array-Embedded DA/AD Conversions**
 
       Gicheol Shin, Donguk Seo, Jaerok Kim, **<u>Johnny Rhe</u>**, Eunyoung Lee, Seonho Kim, Soyoun Jeong, Jong Hwan Ko, Yoonmyung Lee
 
