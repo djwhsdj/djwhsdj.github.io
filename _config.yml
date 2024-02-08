@@ -105,21 +105,21 @@ content:
     content: | # this will include new lines to allow paragraphs 
       ## **[3] HW-SW co-design technique for low-ower real-time in-memory deep learning operation**
 
-      **Study about the efficient convolution operation in the PIM systems
+      - Study about the efficient convolution operation in the PIM systems
 
       *Samsung Advanced Institute of Technology (SAIT)* 
 
 
       ## **[2] SPAD‐based direct‐TOF camera**
 
-      **Assist to obtain (or generate) 3D training input data using direct‐TOF camera
+      - Assist to obtain (or generate) 3D training input data using direct‐TOF camera
 
       *Samsung Advanced Institute of Technology (SAIT)* 
 
 
       ## **[1] Research on in‐sensor processing for next‐generation CMOS image sensor**
 
-      **Assist to design a part of digital circuit for the gaze tracking
+      - Assist to design a part of digital circuit for the gaze tracking
 
       *Samsung Advanced Institute of Technology (SAIT)* 
 
