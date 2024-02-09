@@ -100,31 +100,27 @@ content:
   #         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
   #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-  - title: Student Activities
+  - title: Awards
     layout: text
     content: | # this will include new lines to allow paragraphs 
     
-      ## **[S6] Most Popular Poster Award at the Student Research Forum**
+      ## **[A5] Most Popular Poster Award at the Student Research Forum**
 
       *29th Asia and South Pacific Design Automation Conference (ASP-DAC) 2024* 
 
-      ## **[S5] IEEE CASS Non-Flagship Student Travel Grant Selection**
+      ## **[A4] IEEE CASS Non-Flagship Student Travel Grant Selection**
 
       *IEEE Circuits and System Society (CAS) 2023* 
 
-      ## **Best Papaer Award, Juhong Park, <u>Johnny Rhe</u>, and Jong Hwan Ko**
+      ## **[A3] Best Papaer Award, Juhong Park, <u>Johnny Rhe</u>, and Jong Hwan Ko**
 
       *Korean Artificial Intelligence Association 2023* 
 
-      ## **[S3] SKKU Innovation Reserach Fellowship Scholarship Selection**
+      ## **[A2] SKKU Innovation Reserach Fellowship Scholarship Selection**
 
       *Brain Korea (BK) Graduate School Innovation Support Project 2022* 
 
-      ## **[S2] Introduction and Demonstration of RC Car Remote Control Using 3D Hand Motion Recognition**
-
-      *Information Technology Research Center (ITRC), Korea, 2021* 
-
-      ## **[S1] 2nd Place Winner of Artificial Intelligence Grand Challenge**
+      ## **[A1] 2nd Place Winner of Artificial Intelligence Grand Challenge**
 
       *Institute of Information & Communications Technology Planning & Evaluation, Korea, 2020* 
 
