@@ -177,13 +177,21 @@ content:
 
   - title: Conference Papers
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      ## **[C8] Input/Mapping Precision Controllable Digital PIM with Adaptive Adder Tree Architecture for Flexible DNN Inference**
+    content: | 
 
-      Juhong Park, **<u>Johnny Rhe</u>**, Jong Hwan Ko
-
-      *ACM/IEEE Design Automation Conference (DAC), 2024, In review.* 
+      ## **[C9] ConvMapSim: Modeling and Simulating Convolutional Model Mapping for PIM Arrays**
       
+      Kang Eun Jeon, Wooram Seo, **<u>Johnny Rhe</u>**, Jong Hwan Ko
+
+      *IEEE Artificial Intelligence Circuits and Systems (AICAS), 2024.*
+
+
+      ## **[C8] An Efficient Ventricular Arrhythmias Detection on Microcontrollers with Optimized 1D CNN**
+      
+      Chanwook Hwang, Jaehyeon So, **<u>Johnny Rhe</u>**, Jiyoon Kim, Juhong Park, Kang Eun Jeon, Jong Hwan Ko
+
+      *IEEE Artificial Intelligence Circuits and Systems (AICAS), 2024.*
+
 
       ## **[C7] KARS: Kernel-Grouping Aided Row-Skipping for SDK-based Weight Compression in PIM Arrays**
 
