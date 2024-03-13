@@ -108,7 +108,7 @@ content:
 
       *29th Asia and South Pacific Design Automation Conference (ASP-DAC) 2024* 
 
-      ## **[A4] IEEE CASS Non-Flagship Student Travel Grant Selection**
+      ## **[A4] IEEE CASS Student Travel Grant Selection**
 
       *IEEE Circuits and System Society (CAS) 2023* 
 
@@ -128,7 +128,7 @@ content:
   - title: Projects
     layout: text
     content: | # this will include new lines to allow paragraphs 
-      ## **[P3] HW-SW co-design technique for low-ower real-time in-memory deep learning operation**
+      ## **[P3] HW-SW co-design technique for low-power real-time in-memory deep learning operation**
 
       - Study about the efficient convolution operation in the PIM systems (Mar 2023 - Present)
 
@@ -151,6 +151,13 @@ content:
   - title: Journal Papers
     layout: text
     content: | # this will include new lines to allow paragraphs 
+      ## **[J4] A Charge Domain Variable-Precision Computation-In-Memory Macro Using All-Around-Wire-Capacitor with Array Embedded DA/AD Conversions**
+
+      Gicheol Shin, Donguk Seo, Jaerok Kim, **<u>Johnny Rhe</u>**, Minhueok Jeong, Eunyoung Lee, Seongo Kim, Soyoun Jeong,  Jong Hwan Ko, and Yoonmyung Lee
+
+      *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS), 2024. In review.* 
+
+
       ## **[J3] KERNTROL: Kernel Shape Control Towards Ultimate Memory Utilization for In-Memory Convolutional Weight Mapping**
 
       **<u>Johnny Rhe</u>**, Kang Eun Jeon, Joo Chan Lee, Seongmoon Jeong, Jong Hwan Ko
