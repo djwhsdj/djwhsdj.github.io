@@ -163,6 +163,7 @@ content:
       **<u>Johnny Rhe</u>**, Kang Eun Jeon, Joo Chan Lee, Seongmoon Jeong, Jong Hwan Ko
 
       *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2024.* 
+      [*Link*](https://ieeexplore.ieee.org/document/10443813)
 
 
       ## **[J2] VWC-SDK: Convolutional Weight Mapping Using Shifted and Duplicated Kernel With Variable Windows and Channels**
@@ -186,7 +187,7 @@ content:
     layout: text
     content: | 
     
-      ## **[C1] Row-Efficient Pruning for In-Memory Convolutional Weight Mapping**
+      ## **[C10] Row-Efficient Pruning for In-Memory Convolutional Weight Mapping**
 
       **<u>Johnny Rhe</u>**, Kang Eun Jeon, Jong Hwan Ko
 
