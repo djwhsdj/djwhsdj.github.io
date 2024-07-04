@@ -103,7 +103,14 @@ content:
   - title: Awards
     layout: text
     content: | # this will include new lines to allow paragraphs 
-    
+      ## **[A7] Grand Prize in Exynos AI Challenger 2024**
+
+      *Samsung Electronics S.LSI* 
+
+      ## **[A6] 3rd Palce in DAC 2024 System Design Contest - GPU Track**
+
+      *Design Automation Conference (DAC) 2024* 
+
       ## **[A5] Most Popular Poster Award at the Student Research Forum**
 
       *29th Asia and South Pacific Design Automation Conference (ASP-DAC) 2024* 
