@@ -71,48 +71,12 @@
     }
   ],
   "awards": [
-    {
-      "title": "2nd Place Winner of AI Grand Challenge",
-      "date": "2020-07",
-      "awarder": "Institute of Information & Communications Technology Planning & Evaluation, Korea",
-      "url": "https://www.skku.edu/skku/campus/skk_comm/news.do?mode=view&articleNo=84989&article.offset=0&articleLimit=10"
-      // "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
 
     {
-      "title": "Best Paper Award",
-      "date": "2023-07",
-      "url": "best_paper.pdf",
-      "awarder": "Korean Artificial Intelligence Association"
-    },
-
-    {
-      "title": "Most Popular Poster Award at Student Research Forum",
-      "date": "2024-01",
-      "url": "ASP-DAC.pdf",
-      "awarder": "Asia South Pacific Design Automation Conference (ASP-DAC)"
-    },
-
-    {
-      "title": "3rd Place in System Design Contest - GPU Track",
-      "date": "2024-06",
-      "url": "dac_award.pdf",
-      "awarder": "Design Automation Conference (DAC)"
-    },
-
-    {
-      "title": "Grand Prize at Exynos AI Challenger",
-      "date": "2024-07",
-      "url": "exynos.pdf",
-      "awarder": "Samsung Electronics S.LSI"
-    },
-
-    {
-      "title": "Outstanding Paper Award",
-      "date": "2024-08",
-      "url": "outstanding_samsung.pdf",
-      "awarder": "Samsung Electronics"
+      "title": "Outstanding Research Award",
+      "date": "2024-11",
+      "url": "outstanding_kchips.pdf",
+      "awarder": "Korea Collaborative & High‐tech Initiative for Prospective Semiconductor Research (K‐CHIPS)"
     },
 
     {
@@ -123,32 +87,67 @@
     },
 
     {
-      "title": "Outstanding Research Award",
-      "date": "2024-11",
-      "url": "outstanding_kchips.pdf",
-      "awarder": "Korea Collaborative & High‐tech Initiative for Prospective Semiconductor Research (K‐CHIPS)"
+      "title": "Outstanding Paper Award",
+      "date": "2024-08",
+      "url": "outstanding_samsung.pdf",
+      "awarder": "Samsung Electronics"
+    },
+
+    {
+      "title": "Grand Prize at Exynos AI Challenger",
+      "date": "2024-07",
+      "url": "exynos.pdf",
+      "awarder": "Samsung Electronics S.LSI"
+    },
+
+    {
+      "title": "3rd Place in System Design Contest - GPU Track",
+      "date": "2024-06",
+      "url": "dac_award.pdf",
+      "awarder": "Design Automation Conference (DAC)"
+    },
+
+    {
+      "title": "Most Popular Poster Award at Student Research Forum",
+      "date": "2024-01",
+      "url": "ASP-DAC.pdf",
+      "awarder": "Asia South Pacific Design Automation Conference (ASP-DAC)"
+    },
+
+    {
+      "title": "Best Paper Award",
+      "date": "2023-07",
+      "url": "best_paper.pdf",
+      "awarder": "Korean Artificial Intelligence Association"
+    },
+
+    {
+      "title": "2nd Place Winner of AI Grand Challenge",
+      "date": "2020-07",
+      "awarder": "Institute of Information & Communications Technology Planning & Evaluation, Korea",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/news.do?mode=view&articleNo=84989&article.offset=0&articleLimit=10"
+      // "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
+
 
   ],
 
   "activities": [
-    {
-      "title": "Introduction and Demonstration of RC Car Remote Control Using 3D Hand Motion Recognitione",
-      "date": "2022-4",
-      "awarder": "Information Technology Research Center (ITRC), Koreaa"
-    },
 
     {
-      "title": "SKKU Innovation Research Fellowship Scholarship Selection",
-      "date": "2022-10",
-      "awarder": "BK Graduate School Innovation Support Project"
-    },
+      "title": "Poster Presentation at PhD Forum",
+      "date": "2025-3",
+      // "url": "phd_ISCAS.pdf",
+      "awarder": "Design Automation and Test in Europe Conference (DATE)"
+    }, 
 
     {
-      "title": "IEEE CASS Non‐Flagship Student Travel Grant Selection - ISLPED",
-      "date": "2023-8",
-      "awarder": "IEEE Circuits and System Society (CAS)"
-    },
+      "title": "Poster Presentation at PhD Forum",
+      "date": "2024-5",
+      "url": "phd_ISCAS.pdf",
+      "awarder": "IEEE International Symposium on Circuits and Systems (ISCAS)"
+    }, 
 
     {
       "title": "Poster Presentation at Student Research Forum",
@@ -158,10 +157,21 @@
     },
 
     {
-      "title": "Poster Presentation at PhD Forum",
-      "date": "2024-5",
-      "url": "phd_ISCAS.pdf",
-      "awarder": "IEEE International Symposium on Circuits and Systems (ISCAS)"
+      "title": "IEEE CASS Non‐Flagship Student Travel Grant Selection - ISLPED",
+      "date": "2023-8",
+      "awarder": "IEEE Circuits and System Society (CAS)"
+    },
+
+    {
+      "title": "SKKU Innovation Research Fellowship Scholarship Selection",
+      "date": "2022-10",
+      "awarder": "BK Graduate School Innovation Support Project"
+    },
+
+    {
+      "title": "Introduction and Demonstration of RC Car Remote Control Using 3D Hand Motion Recognitione",
+      "date": "2022-4",
+      "awarder": "Information Technology Research Center (ITRC), Koreaa"
     }
 
   ],
