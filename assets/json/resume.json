@@ -226,7 +226,7 @@
       "authors": ["Eunyoung Lee", "Taeyoung Han", "Donguk Seo", "Gicheol Shin", "Jaerok Kim", "Seonho Kim", "Soyoun Jeong", "Johnny Rhe", "Jaehyun Park, Jong Hwan Ko, and Yoonmyung Lee"],
       "releaseDate": "2021-05",
       "url": "https://ieeexplore.ieee.org/document/9437302",
-      "summary": "IEEE Transaction on Circuits and Systems I: Regular Papers (TCAS-I)"
+      "summary": "IEEE Transaction on Circuits and Systems I: Regular Papers (TCAS-I), JCR Q2"
     },
 
     {
@@ -242,7 +242,7 @@
       "authors": ["Johnny Rhe", "Sungmin Moon, and Jong Hwan Ko"],
       "releaseDate": "2022-05",
       "url": "https://ieeexplore.ieee.org/document/9774509",
-      "summary": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)"
+      "summary": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS), JCR Q1"
     },
 
     {
@@ -325,7 +325,7 @@
       "authors": ["Johnny Rhe", "Kang Eun Jeon, Joo Chan Lee, Seongmoon Jeong, and Jong Hwan Ko"],
       "releaseDate": "2024-12",
       "url": "https://ieeexplore.ieee.org/document/10443813",
-      "summary": "IEEE Transaction on Circuits and Systems I: Regular Papers (TCAS-I)"
+      "summary": "IEEE Transaction on Circuits and Systems I: Regular Papers (TCAS-I), JCR Q1"
     },
 
     {
@@ -341,7 +341,15 @@
       "authors": ["Juhong Park", "Johnny Rhe", "Chanwook Hwang, Jaehyeon So, and Jong Hwan Ko"],
       "releaseDate": "2025-02",
       "url": "https://doi.org/10.1016/j.sysarc.2024.103327",
-      "summary": "Journal of Systems Architecture (JSA)"
+      "summary": "Journal of Systems Architecture (JSA), JCR Q1"
+    },
+
+    {
+      "name": "GAROS: Genetic-Algorithm-Aided Row-Skipping for Shift and Duplicate Kernel Mapping in Processing-In-Memory Archtectures",
+      "authors": ["Johnny Rhe", "Kang Eun Jeon, and Jong Hwan Ko"],
+      "releaseDate": "2025-04",
+      // "url": "https://doi.org/10.1016/j.sysarc.2024.103327",
+      "summary": "Journal of Systems Architecture (JSA), JCR Q1"
     }
   ],
 
