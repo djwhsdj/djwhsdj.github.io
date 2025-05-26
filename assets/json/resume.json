@@ -71,6 +71,13 @@
     }
   ],
   "awards": [
+    {
+      "title": "2025 SKKU Innovative Research Fellowship",
+      "date": "2025-05",
+      // "url": "best_paper.pdf",
+      "awarder": "Sungkyunkwan University"
+    },
+
 
     {
       "title": "Outstanding Research Award",
@@ -119,6 +126,13 @@
       "date": "2023-07",
       "url": "best_paper.pdf",
       "awarder": "Korean Artificial Intelligence Association"
+    },
+
+    {
+      "title": "2022 SKKU Innovative Research Fellowship",
+      "date": "2022-09",
+      // "url": "best_paper.pdf",
+      "awarder": "Sungkyunkwan University"
     },
 
     {
