@@ -346,7 +346,7 @@
       "name": "Low-Rank Compression for IMC Arrays",
       "authors": ["Kang Eun Jeon" , "Johnny Rhe", "and Jong Hwan Ko"],
       "releaseDate": "2025-04",
-      // "url": "https://ieeexplore.ieee.org/document/10443813",
+      "url": "https://ieeexplore.ieee.org/document/10993235",
       "summary": "Design, Automation & Test in Europe Conference & Exhibition (DATE)"
     },
 
@@ -362,8 +362,16 @@
       "name": "GAROS: Genetic-Algorithm-Aided Row-Skipping for Shift and Duplicate Kernel Mapping in Processing-In-Memory Archtectures",
       "authors": ["Johnny Rhe", "Kang Eun Jeon, and Jong Hwan Ko"],
       "releaseDate": "2025-04",
-      // "url": "https://doi.org/10.1016/j.sysarc.2024.103327",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1383762125000955?casa_token=QEuh4szVW4cAAAAA:5vcxHtH62JuUGOKchFIERAZFwNoPZUUczarLDwdsbU7fAQM2VQU8nihb-rlc9dhF84IBCkV6nQ",
       "summary": "Journal of Systems Architecture (JSA), JCR Q1"
+    },
+
+    {
+      "name": "Row-Column Hybrid Grouping for Fault-Resilient Multi-Bit Weight Representation on IMC Arrays",
+      "authors": ["Kang Eun Jeon, Sangheum Yeon, Jin Hee Kim, Hyeonsu Bang", "Johnny Rhe", "and Jong Hwan Ko"],
+      "releaseDate": "2025-10",
+      // "url": "https://doi.org/10.1016/j.sysarc.2024.103327",
+      "summary": "IEEE/ACM International Conference on Computer Aided Design (ICCAD)"
     }
   ],
 
