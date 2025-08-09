@@ -372,7 +372,23 @@
       "releaseDate": "2025-10",
       // "url": "https://doi.org/10.1016/j.sysarc.2024.103327",
       "summary": "IEEE/ACM International Conference on Computer Aided Design (ICCAD)"
+    },
+    {
+      "name": "Efiicient and Robust SNN Decoder Training for Closed-Loop Brain-Machine Interfaces",
+      "authors": ["Chanwook Hwang, Chan Woong Park", "Johnny Rhe", "and Jong Hwan Ko"],
+      "releaseDate": "2025-10",
+      // "url": "https://doi.org/10.1016/j.sysarc.2024.103327",
+      "summary": "IEEE Biomedical Circuits and Systems Conference (BioCAS)"
+    },
+
+    {
+      "name": "Weight Sharing for Array-Efficient CNN Infernece in Compute-In-Memory Architectures",
+      "authors": ["Johnny Rhe", "and Jong Hwan Ko"],
+      "releaseDate": "2025-10",
+      // "url": "https://doi.org/10.1016/j.sysarc.2024.103327",
+      "summary": "International SoC Design Conference (ISOCC)"
     }
+
   ],
 
   // "skills": [
