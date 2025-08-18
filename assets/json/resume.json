@@ -387,6 +387,14 @@
       "releaseDate": "2025-10",
       // "url": "https://doi.org/10.1016/j.sysarc.2024.103327",
       "summary": "International SoC Design Conference (ISOCC)"
+    },
+
+    {
+      "name": "ETA: Efficient Transformer Attention Mapping for ReRAM-based Compute-In-Memory Architectures",
+      "authors": ["Johnny Rhe", "Juhong Park, Kang Eun Jeon, and Jong Hwan Ko"],
+      "releaseDate": "2025-10",
+      // "url": "https://doi.org/10.1016/j.sysarc.2024.103327",
+      "summary": "International SoC Design Conference (ISOCC)"
     }
 
   ],
