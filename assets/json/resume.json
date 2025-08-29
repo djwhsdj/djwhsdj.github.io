@@ -70,12 +70,13 @@
       "courses": ["Semiconductor", "Digital/Analog Circuit"]
     }
   ],
+
   "awards": [
     {
-      "title": "2025 SKKU Innovative Research Fellowship",
-      "date": "2025-05",
-      // "url": "best_paper.pdf",
-      "awarder": "Sungkyunkwan University"
+      "title": "2nd/3rd Place Winners at Grand Challenge",
+      "date": "2025-10",
+      // "url": "outstanding_kchips.pdf",
+      "awarder": "IEEE Biomedical Circuits and Systems Conference (BioCAS)"
     },
 
 
@@ -129,13 +130,6 @@
     },
 
     {
-      "title": "2022 SKKU Innovative Research Fellowship",
-      "date": "2022-09",
-      // "url": "best_paper.pdf",
-      "awarder": "Sungkyunkwan University"
-    },
-
-    {
       "title": "2nd Place Winner of AI Grand Challenge",
       "date": "2020-07",
       "awarder": "Institute of Information & Communications Technology Planning & Evaluation, Korea",
@@ -147,12 +141,54 @@
 
   ],
 
+  "honors": [
+
+    {
+      "title": "2025 SKKU Innovation Research Fellowship Scholarship",
+      "date": "2025-5",
+      "awarder": "BK Graduate School Innovation Support Project"
+    },
+
+    {
+      "title": "IEEE CASS Non‐Flagship Student Travel Grant Selection - ISLPED",
+      "date": "2023-8",
+      "awarder": "IEEE Circuits and System Society (CAS)"
+    },
+
+    {
+      "title": "2022 SKKU Innovation Research Fellowship Scholarship",
+      "date": "2022-10",
+      "awarder": "BK Graduate School Innovation Support Project"
+    }
+
+  ],
+
   "activities": [
+
+    {
+      "title": "Poster Presentation at Student Research Forum",
+      "date": "2025-10",
+      "awarder": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)"
+    }, 
+
+    {
+      "title": "Research Talk",
+      "date": "2025-8",
+      "url": "talk_uic.pdf",
+      "awarder": "University of Illinois Chicago (UIC)"
+    }, 
+
+    {
+      "title": "Research Talk",
+      "date": "2025-8",
+      "url": "talk_duke.pdf",
+      "awarder": "Duke University"
+    }, 
+
 
     {
       "title": "Poster Presentation at PhD Forum",
       "date": "2025-3",
-      // "url": "phd_ISCAS.pdf",
       "awarder": "Design Automation and Test in Europe Conference (DATE)"
     }, 
 
@@ -168,18 +204,6 @@
       "date": "2024-1",
       "url": "phd_ASP-DAC.pdf",
       "awarder": "Asia South Pacific Design Automation Conference (ASP-DAC)"
-    },
-
-    {
-      "title": "IEEE CASS Non‐Flagship Student Travel Grant Selection - ISLPED",
-      "date": "2023-8",
-      "awarder": "IEEE Circuits and System Society (CAS)"
-    },
-
-    {
-      "title": "SKKU Innovation Research Fellowship Scholarship Selection",
-      "date": "2022-10",
-      "awarder": "BK Graduate School Innovation Support Project"
     },
 
     {
