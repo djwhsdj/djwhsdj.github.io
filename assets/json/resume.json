@@ -71,6 +71,7 @@
     }
   ],
 
+
   "awards": [
     {
       "title": "2nd/3rd Place Winners at Grand Challenge",
@@ -280,7 +281,7 @@
       "authors": ["Johnny Rhe", "Sungmin Moon, and Jong Hwan Ko"],
       "releaseDate": "2022-05",
       "url": "https://ieeexplore.ieee.org/document/9774509",
-      "summary": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS), JCR Q1"
+      "summary": "Design, Automation & Test in Europe Conference & Exhibition (DATE)"
     },
 
     {
@@ -288,7 +289,7 @@
       "authors": ["Johnny Rhe", "Sungmin Moon, and Jong Hwan Ko"],
       "releaseDate": "2022-05",
       "url": "https://ieeexplore.ieee.org/document/9771242",
-      "summary": "Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+      "summary": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS), JCR Q1"
     },
 
     {
@@ -418,7 +419,7 @@
       "authors": ["Johnny Rhe", "Juhong Park, Kang Eun Jeon, and Jong Hwan Ko"],
       "releaseDate": "2025-10",
       // "url": "https://doi.org/10.1016/j.sysarc.2024.103327",
-      "summary": "International SoC Design Conference (ISOCC)"
+      "summary": "Asia Pacific Conference on Circuits and Systems (APCCAS)"
     }
 
   ],
@@ -473,7 +474,7 @@
       "name": "Dr. Jong Hwan Ko",
       "url": "https://iris.skku.edu/",
       "icon": "fa-solid fa-laptop",
-      "reference": "Professor, Colleage of ICE, SungKyunKwan University",
+      "reference": "Associate Professor, Colleage of ICE, SungKyunKwan University",
       "email": "jhko@skku.edu"
       
     }
