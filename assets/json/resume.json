@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Johnny Rhe",
-    "label": "PhD Candidate",
+    "label": "Ph.D.",
     "image": "",
     "email": "djwhsdj@skku.edu",
     // "phone": "(+82) 10-5236-5648",
@@ -45,7 +45,20 @@
   //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
   //   }
   // ],
+  
   "education": [
+      {
+      "institution": "Purdue University",
+      "location": "West Lafayette, Indiana, USA",
+      "url": "https://engineering.purdue.edu/NRL",
+      "area": "Nanoelectronics Research Laboratory (NRL), hosted by Prof. Kaushik Roy",
+      "studyType": "Visiting Student",
+      "startDate": "2026-03-01",
+      "endDate": "2026-08-31",
+      // "score": "10",
+      "courses": ["Quantization"]
+    },
+    
     {
       "institution": "SungKyunKwan University",
       "location": "Suwon, South Korea",
@@ -53,9 +66,9 @@
       "area": "Department of Electrical and Computer Engineering",
       "studyType": "PhD",
       "startDate": "2019-09-01",
-      "endDate": "ing",
+      "endDate": "2026-08-31",
       // "score": "10",
-      "courses": ["In-Memory Computing", "Artificial Intelligence"]
+      "courses": ["Compute-In-Memory (CIM)", "Deep Learning", "AI"]
     },
 
     {
@@ -65,10 +78,11 @@
       "area": "School of Electronic and Electrical Engineering",
       "studyType": "B.S.",
       "startDate": "2017-03-01",
-      "endDate": "2019-02-01",
+      "endDate": "2019-02-28",
       // "score": "10",
       "courses": ["Semiconductor", "Digital/Analog Circuit"]
     }
+
   ],
 
 
@@ -443,7 +457,7 @@
   "languages": [
     {
       "language": "Korean",
-      "fluency": "Native speaker",
+      "fluency": "Native or billingual proficiency",
       "icon": ""
     },
     {
@@ -474,10 +488,18 @@
       "name": "Dr. Jong Hwan Ko",
       "url": "https://iris.skku.edu/",
       "icon": "fa-solid fa-laptop",
-      "reference": "Associate Professor, Colleage of ICE, SungKyunKwan University",
+      "reference": "Associate Professor, Colleage of ICE, SungKyunKwan University (SKKU)",
       "email": "jhko@skku.edu"
+    },
+    {
+      "name": "Dr. Kang Eun Jeon",
+      "url": "https://kejeon.github.io/",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Postdoctoral Researcher, Kim Jaechul Graduate School of Artificial Intelligence, Korea Adavanced Institute of Science & Technology (KAIST",
+      "email": "kejeon@kaist.ac.kr"
       
-    }
+    },
+
   ]
   // "projects": [
   //   {
