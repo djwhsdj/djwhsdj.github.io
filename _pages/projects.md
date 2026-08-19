@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
 permalink: /projects/
+title: Projects
 description:
 nav: true
-nav_order: 4
-display_categories: [Government/Industry-Funded, Team-Based]
+nav_order: 2
+display_categories: [Government-Funded, Team-Based AI Challenge]
 horizontal: false
 ---
 

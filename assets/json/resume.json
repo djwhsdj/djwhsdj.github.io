@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Johnny Rhe",
-    "label": "Ph.D.",
+    "label": "Ph.D. Candidate",
     "image": "",
     "email": "djwhsdj@skku.edu",
     // "phone": "(+82) 10-5236-5648",
@@ -45,18 +45,18 @@
   //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
   //   }
   // ],
-  
+
   "education": [
       {
       "institution": "Purdue University",
-      "location": "West Lafayette, Indiana, USA",
+      "location": "West Lafayette, USA",
       "url": "https://engineering.purdue.edu/NRL",
-      "area": "Nanoelectronics Research Laboratory (NRL), hosted by Prof. Kaushik Roy",
+      "area": "Nanoelectronics Research Laboratory (NRL), Prof. Kaushik Roy",
       "studyType": "Visiting Student",
       "startDate": "2026-03-01",
       "endDate": "2026-08-31",
       // "score": "10",
-      "courses": ["Quantization"]
+      "courses": ["Quantization", "Partial Sum Sparsity"]
     },
     
     {
@@ -64,11 +64,11 @@
       "location": "Suwon, South Korea",
       "url": "https://www.skku.edu/skku/index.do",
       "area": "Department of Electrical and Computer Engineering",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "2019-09-01",
       "endDate": "2026-08-31",
       // "score": "10",
-      "courses": ["Compute-In-Memory (CIM)", "Deep Learning", "AI"]
+      "courses": ["Compute-In-Memory (CIM)", "Deep Learning", "On-Device AI"]
     },
 
     {
@@ -495,10 +495,10 @@
       "name": "Dr. Kang Eun Jeon",
       "url": "https://kejeon.github.io/",
       "icon": "fa-solid fa-laptop",
-      "reference": "Postdoctoral Researcher, Kim Jaechul Graduate School of Artificial Intelligence, Korea Adavanced Institute of Science & Technology (KAIST",
+      "reference": "Postdoctoral Researcher, Kim Jaechul Graduate School of Artificial Intelligence, Korea Adavanced Institute of Science & Technology (KAIST)",
       "email": "kejeon@kaist.ac.kr"
       
-    },
+    }
 
   ]
   // "projects": [
