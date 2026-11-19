@@ -11,3 +11,5 @@ assets/libs/
 node_modules/
 vendor
 .idea
+# 개인 작업 메모 (사이트/깃에 올리지 않음)
+README_rhe.md
