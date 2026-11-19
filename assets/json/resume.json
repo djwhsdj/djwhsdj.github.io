@@ -47,12 +47,24 @@
   // ],
 
   "education": [
-      {
+    {
+      "institution": "SungKyunKwan University",
+      "location": "Suwon, South Korea",
+      "url": "https://www.skku.edu/skku/index.do",
+      "area": "Department of Electrical and Computer Engineering",
+      "studyType": "PostDoc. Researcher",
+      "startDate": "2026-09-01",
+      "endDate": "~ing",
+      // "score": "10",
+      "courses": ["Efficient AI", "Edge/On-Device AI"]
+    },
+
+    {
       "institution": "Purdue University",
       "location": "West Lafayette, USA",
       "url": "https://engineering.purdue.edu/NRL",
       "area": "Nanoelectronics Research Laboratory (NRL), Prof. Kaushik Roy",
-      "studyType": "Visiting Student",
+      "studyType": "Visiting Researcher",
       "startDate": "2026-03-01",
       "endDate": "2026-08-31",
       // "score": "10",
@@ -493,11 +505,17 @@
     },
     {
       "name": "Dr. Kang Eun Jeon",
-      "url": "https://kejeon.github.io/",
+      "url": "https://jedislab.org/#/",
       "icon": "fa-solid fa-laptop",
-      "reference": "Postdoctoral Researcher, Kim Jaechul Graduate School of Artificial Intelligence, Korea Adavanced Institute of Science & Technology (KAIST)",
-      "email": "kejeon@kaist.ac.kr"
-      
+      "reference": "Assistant Professor, Department of Electrical Engineering and Computer Science, Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
+      "email": "kejeon@dgist.ac.kr"
+    },
+    {
+      "name": "Dr. Kaushik Roy",
+      "url": "https://engineering.purdue.edu/NRL",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Edward G. Tiedemann, Jr., Distinguished Professor, Electrical and Computer Engineering, Purdue University",
+      "email": "kaushik@purdue.edu"
     }
 
   ]

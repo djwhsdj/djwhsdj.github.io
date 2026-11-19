@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper is accepted at ICCAD 2025.
+A paper is accepted at ICCAD 2025 (BK IF = 3).

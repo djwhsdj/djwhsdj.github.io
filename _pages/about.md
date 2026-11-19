@@ -20,9 +20,4 @@ announcements:
 ---
 
 
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Sungkyunkwan University. My research focuses
-on `hardware–software (HW–SW) co-design for efficient AI systems`, with an emphasis on hardware-aware optimization and
-energy-efficient acceleration for on-device AI. My work explores optimization across the model, mapping, and dataflow levels,
-particularly for Compute-In-Memory (CIM) architectures. More recently, I have expanded my research to modern AI workloads,
-including Vision Transformers (ViTs) and Large Language Models (LLMs), with the goal of enabling scalable and energy-efficient AI
-computing systems.
+I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Sungkyunkwan University. My research focuses on **AI-hardware co-design for efficient AI systems**, with an emphasis on **hardware-aware optimization and energy-efficient acceleration for on-device AI**. My work explores optimization across the model, mapping, and dataflow levels, particularly for Compute-In-Memory (CIM) & Processing-In-Memory (PIM) architectures. More recently, I have expanded my research to modern AI workloads, including Large Language Models (LLMs) and 3D/4D Gaussian Splatting (3D/4DGS), with the goal of enabling scalable and energy-efficient AI computing systems.
